@@ -1,0 +1,6 @@
+CREAR TABLA ( estudiantes ) CON ( id ) , ( apellidos ) , ( nombre ) ; CREAR TABLA ( clases ) CON ( idclase ) , ( titulo ) , ( descripción ) ; AGREGAR FORANEA ( idclase ) DE TABLA ( clases ) EN TABLA ( estudiantes ) ; AGREGAR FORANEA ( id ) DE TABLA ( estudiantes ) EN TABLA ( clases ) .
+CREAR TABLA ( estudiantes ) CON ( id ) , ( apellidos ) , ( nombre ) ; CREAR TABLA ( clases ) CON ( idclase ) , ( titulo ) , ( descripción ) ; AGREGAR FORANEA ( idclase ) DE TABLA ( clases ) EN TABLA ( estudiantes ) .
+CREAR TABLA ( estudiantes ) CON ( id ) , ( apellidos ) , ( nombre ) ; CREAR TABLA ( clases ) CON ( idclase ) , ( titulo ) , ( descripción ) .
+CREAR TABLA ( estudiantes ) CON ( id ) , ( apellidos ) , ( nombre ) ; CREAR TABLA ( clases ) CON ( idclase ) , ( titulo ) , ( descripción ) ; AGREGAR FORANEA ( idclase ) DE TABLA ( clases ) EN TABLA ( estudiantes ) ; AGREGAR FORANEA ( idclase ) DE TABLA ( clases ) EN TABLA ( estudiantes ) .
+CREAR TABLA ( estudiantes ) CON ( id ) , ( apellidos ) , ( nombre ) ; AGREGAR FORANEA ( idclase ) DE TABLA ( clases ) EN TABLA ( estudiantes ) .
+CREAR TABLA ( estudiantes ) CON ( id ) , ( apellidos ) , ( nombre ) ; CREAR TABLA ( estudiantes ) CON ( idclase ) , ( titulo ) , ( descripción ) .
